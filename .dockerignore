@@ -1,0 +1,11 @@
+!package.json
+!package-lock.json
+!client/
+!client/**
+!server/
+!server/**
+
+**/node_modules
+**/.env
+**/.env.*
+**/npm-debug.log*
